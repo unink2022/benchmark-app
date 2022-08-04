@@ -12,13 +12,17 @@ Project should also work on Mac, but I do not have any Macs to test on
 npm uninstall -g create-react-app
 
 npm install -g create-react-app
+
 ---
+
 cd backend/
 
 npm i
 
 npm run start
+
 ---
+
 cd ../frontend
 
 npm i
