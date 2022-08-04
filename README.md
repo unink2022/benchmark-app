@@ -23,7 +23,7 @@ npm run start
 
 ---
 
-cd ../frontend
+cd frontend/
 
 npm i
 
