@@ -5,6 +5,7 @@ The server was created with express.js
 ## Setup process
 
 npm i
+
 npm run start
 
 ### Important note

@@ -5,6 +5,7 @@ This SPA was created with create-react-app
 ## Setup process
 
 npm i
+
 npm run start
 
 ### Important notes
